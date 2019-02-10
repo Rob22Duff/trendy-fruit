@@ -18,4 +18,30 @@ html {
   box-sizing:inherit;
 }
 
-body
+body {
+  margin: 0;
+}
+
+.font-gravitas {
+  font-family: "Gravitas One", cursive;
+}
+
+.font-comfortaa {
+  font-family: "Comfortaa", cursive;
+}
+
+.font-rametto-one {
+  font-family: "Rammetto One", cursive;
+}
+
+.pink {
+  background-color: #e97065;
+}
+
+.orange {
+  background-color: #e86033;
+}
+
+.yellow {
+  background-color: #fbd25e;
+}
